@@ -1,0 +1,10 @@
+1,Smartphone,900.00,50
+2,Headphones,650.00,40
+3,Keyboard-7,60.00,15
+4,Mouse Comb,70.00,65
+5,Monitor Cord,150.00,20
+6,Laptop Intel,799.00,70
+7,iPhone 16 Pro,999.00,10
+8,Home Theatre,600.00,55
+9,Speaker Mic,400.00,95
+10,Smartwatch,999.00,100
